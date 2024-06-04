@@ -1,0 +1,6 @@
+[submodule "racecar_gym"]
+	path = racecar_gym
+	url = https://github.com/CTU-F1T/racecar_gym.git
+[submodule "racing_dreamer"]
+	path = racing_dreamer
+	url = https://github.com/CTU-F1T/racing_dreamer.git
