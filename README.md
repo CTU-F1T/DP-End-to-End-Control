@@ -1,4 +1,4 @@
-# End-to-End Control Diploma Thesis
+# DP End-to-End Control
 
 ## Videos
 - [TD3](https://youtu.be/KJGEUrtT6P8)
